@@ -65,7 +65,7 @@ k apply -f k8s.yaml [ in this file replace storage class with your storage class
 ```
 
 # Backup Policy Screenshot
-
+```
 ![image](https://user-images.githubusercontent.com/82602775/181231543-0a9da28c-c55b-4b40-8de0-2a21dd4ff386.png)
 
 ![image](https://user-images.githubusercontent.com/82602775/181232443-324c3094-8675-4d90-a5e5-70c890780788.png)
@@ -73,5 +73,16 @@ k apply -f k8s.yaml [ in this file replace storage class with your storage class
 ![image](https://user-images.githubusercontent.com/82602775/181232637-c484e168-1d10-4955-a67e-c49c9b190dc4.png)
 
 ![image](https://user-images.githubusercontent.com/82602775/181232671-96098a4f-c6cb-4e09-a0bb-cd18fa532edd.png)
+```
 
+# Restore Application
+```
+Go to application section and click on it. There You can find todo application click on restore. While restoring select namespace on which you want to restore.
+```
+```
+![image](https://user-images.githubusercontent.com/82602775/181234513-a99a2244-3685-4729-bed2-06a26f8c4258.png)
+
+![image](https://user-images.githubusercontent.com/82602775/181234647-37339d4c-288f-4f6c-b93b-d7fc38142a0e.png)
+
+```
 
